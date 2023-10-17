@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello there [👋](https://www.youtube.com/watch?v=rEq1Z0bjdwc)
 
 ### I'm George Egiazaryan!
 #### in 2022 I've started my path to become a Backend Python Developer
