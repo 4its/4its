@@ -1,8 +1,8 @@
 ### Hello there [👋](https://www.youtube.com/shorts/AtfWUxQ5Sfo)
 
 ### I'm George Egiazaryan!
-#### in 2022 I've started my path to become a Backend Python Developer
-I've looking for employment as a Python developer <br>
+<!-- #### in 2022 I've started my path to become a Backend Python Developer
+I've looking for employment as a Python developer <br> -->
 If you have some, here is my contacts:<br>
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/i4its)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:4its.dev@gmail.com)<br>
